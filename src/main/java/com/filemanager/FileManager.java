@@ -1,11 +1,15 @@
 package com.filemanager;
 
+import com.model.User;
+
 /**
  *
  * @author Cristian
  */
 public class FileManager extends javax.swing.JFrame {
 
+    public static User user;
+        
     /**
      * Creates new form FileManager
      */
